@@ -1,0 +1,10 @@
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.deps.json
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.runtimeconfig.json
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.runtimeconfig.dev.json
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.dll
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.pdb
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.AssemblyInfo.cs
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.dll
+C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.pdb
