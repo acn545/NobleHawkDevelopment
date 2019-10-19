@@ -12,9 +12,14 @@ html,body{
 .navbar.navbar-inverse{
     padding-bottom: 0px;
 } 
+
+
+
+/* carousel set max height and Width to fill screen*/
+
 .carousel,.item{
     
-    max-height: 900px; /*slider height*/
+    max-height: 100vh; /*slider height*/
 }
 .carousel-inner{
     height:100%;
@@ -35,6 +40,13 @@ html,body{
 #Carousel-hidden{
     display: none;
 }
+
+
+
+
+
+
+/* mid section 3 columns horizontal - under carousel*/
 
 .mid-section-three-columns{
     display: flex;
@@ -62,7 +74,7 @@ html,body{
 }
 
 
-  /* needs work */
+  /* needs work - Media Queries*/
   @media(max-width: 756px){
 
     .nav.navbar-nav{

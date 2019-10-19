@@ -8,3 +8,14 @@ C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\obj\Debug\netcoreapp2.
 C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.AssemblyInfo.cs
 C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.dll
 C:\Users\antho\Documents\Webprojects\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.pdb
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.deps.json
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.runtimeconfig.json
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.runtimeconfig.dev.json
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.dll
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.pdb
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.csprojAssemblyReference.cache
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.AssemblyInfoInputs.cache
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.AssemblyInfo.cs
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.dll
+C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.pdb
