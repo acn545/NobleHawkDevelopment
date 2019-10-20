@@ -55,23 +55,38 @@ html,body{
     width: 100vw;
 }
 .mid-section-column1{
+    padding: 1%;
     float: left;
     width: 33.3333%;
     max-height:600px;
     background-color: blue;
 }
 .mid-section-column2{
+    padding: 1%;
     float: center;
     width: 33.3333%;
     height:600px;
     background-color: red;
 }
 .mid-section-column3{
+    padding: 1%;
     float: right;
     width: 33.3333%;
     max-height:600px;
     background-color: green;
 }
+
+.mid-section-images{
+    width: 90%;
+    margin: 0px auto;
+    display: block;
+}
+.mid-section-headers{
+    color: azure;
+    display: block;
+   
+}
+
 
 
   /* needs work - Media Queries*/
