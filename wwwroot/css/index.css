@@ -97,6 +97,25 @@ footer{
 #mid-section-hidden-responsive-content{
     display: none;
 }
+/* end mid section*/
+
+
+/*bottem contact form information*/
+.bottem-contact-section{
+    text-align: center;
+    background-color: azure;
+}
+.bottem-contact-section table{
+    margin: 0 auto;
+    display: inline;
+    font-size: 190%;
+}
+
+.bottem-contact-section td{
+    padding: 4% 2% 4% 2%;
+    text-align: left;
+}
+
 
 
 
