@@ -6,12 +6,19 @@ html,body{
 .container.body-content{
     width: 100vw;
     max-width: 100vw;
-    margin:0; padding:0; box-sizing:border-box;
+    margin:0; 
+    padding:0; 
+    box-sizing:border-box;
   
 }
 .navbar.navbar-inverse{
     padding-bottom: 0px;
 } 
+
+footer{
+    background-color: black;
+    height: 100px;
+}
 
 
 
@@ -19,7 +26,7 @@ html,body{
 
 .carousel,.item{
     
-    max-height: 100vh; /*slider height*/
+    max-height: 85vh; /*slider height*/
 }
 .carousel-inner{
     height:100%;
@@ -53,38 +60,42 @@ html,body{
     margin-top: 0px;
     margin-left: 0px;
     width: 100vw;
+    font-family: "Impact, Charcoal, sans-serif";
+    background-color: azure;
+    font-size: 150%;
+
 }
 .mid-section-column1{
     padding: 1%;
     float: left;
     width: 33.3333%;
-    max-height:600px;
-    background-color: blue;
 }
 .mid-section-column2{
     padding: 1%;
     float: center;
     width: 33.3333%;
-    height:600px;
-    background-color: red;
 }
 .mid-section-column3{
     padding: 1%;
     float: right;
     width: 33.3333%;
-    max-height:600px;
-    background-color: green;
 }
-
 .mid-section-images{
     width: 90%;
     margin: 0px auto;
     display: block;
 }
 .mid-section-headers{
-    color: azure;
+    color: black;
     display: block;
-   
+    text-align: center;
+    margin-bottom: 5%;  
+}
+.mid-section-three-columns p{
+    padding: 5%;
+}
+#mid-section-hidden-responsive-content{
+    display: none;
 }
 
 
@@ -104,6 +115,15 @@ html,body{
         position: absolute;
         left:2%;
     }
+    .mid-section-three-columns{
+        display: block;
+    }
+    .mid-section-column1,.mid-section-column2,.mid-section-column3{
+        width: 100%;
+    }
+    #mid-section-hidden-responsive-content{
+        display: block;
+    }   
   }
 
  

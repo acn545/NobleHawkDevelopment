@@ -19,3 +19,14 @@ C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreap
 C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.AssemblyInfo.cs
 C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.dll
 C:\Users\Anthony Noble\Documents\GitHub\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.pdb
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.deps.json
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.runtimeconfig.json
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.runtimeconfig.dev.json
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.dll
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\bin\Debug\netcoreapp2.0\NobleHawkDevelopment.pdb
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.csprojResolveAssemblyReference.cache
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.csproj.CoreCompileInputs.cache
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.AssemblyInfoInputs.cache
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.AssemblyInfo.cs
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.dll
+c:\Users\antho\Documents\C#NETCORE\ASP.NET CORE\NobleHawkDevelopment\obj\Debug\netcoreapp2.0\NobleHawkDevelopment.pdb
