@@ -101,6 +101,10 @@ footer{
 #mid-section-hidden-responsive-content{
     display: none;
 }
+
+.mid-section-three-columns ul {
+    list-style-type: none;
+  }
 /* end mid section*/
 
 

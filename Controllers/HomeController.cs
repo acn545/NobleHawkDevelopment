@@ -10,6 +10,7 @@ namespace NobleHawkDevelopment.Controllers
 {
     public class HomeController : Controller
     {
+        [HttpGet("")]
         public IActionResult Index()
         {
             return View();
@@ -27,6 +28,11 @@ namespace NobleHawkDevelopment.Controllers
             ViewData["Message"] = "Your contact page.";
 
             return View();
+        }
+        [HttpGet("Design")]
+        public IActionResult Design()
+        {
+            return View("Design");
         }
 
         public IActionResult Error()
